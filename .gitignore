@@ -220,3 +220,8 @@ __marimo__/
 venv/
 dataset/
 *.csv
+
+venv/
+__pycache__/
+dataset/
+*.pyc
